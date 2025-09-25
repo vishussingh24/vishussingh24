@@ -9,7 +9,7 @@
 - 👀 Enthusiastic about React, 3D animations, and hackathons  
 - 💞️ Thrive on collaborations, open-source projects, and solving real-world problems  
 - 🎵 Fun fact: I remix songs into LOFI / Slowed + Reverb versions on YouTube!  
-- 📧 Reach me at: [vishalsingh.dev@gmail.com](mailto:vk24122005@gmail.com)
+- 📧 Reach me at: [vk24122005@gmail.com](mailto:vk24122005@gmail.com)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-426739304/)
@@ -53,9 +53,11 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishussingh24&theme=dark&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1"/>
 </div>
+
 
 [![](https://visitcount.itsvg.in/api?id=vishussingh24&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Made with ❤️ by Vishal -->
+### Made with ❤️ by Vishal
+
