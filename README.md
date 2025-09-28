@@ -38,7 +38,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/socket.io-%23447AFC.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
-## 📈 GitHub Stats
+<div align="center" >
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" /> GITHUB STATS</h1>
+</div>
 <div align="center">
   <table>
     <tr>
@@ -53,11 +55,14 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=vishussingh24&theme=algolia&row=1" alt="GitHub Trophies" />
+
 </div>
 
 
 [![](https://visitcount.itsvg.in/api?id=vishussingh24&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ### Made with ❤️ by Vishal
+
 
