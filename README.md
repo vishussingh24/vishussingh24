@@ -13,8 +13,8 @@
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-426739304/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@wavesxvishal?si=PV2cc41qDOdt4CWh) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/predicate_elite/)
+[![YouTube]
+[![Instagram]
 
 ## 🧰 Tech Stack
 **Languages & Frameworks:**  
@@ -64,5 +64,6 @@
 [![](https://visitcount.itsvg.in/api?id=vishussingh24&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ### Made with ❤️ by Vishal
+
 
 
