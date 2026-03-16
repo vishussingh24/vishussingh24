@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<img height="200" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />
+<img height="230" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />
 
-<img height="200" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img height="230" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
 </p>
 
