@@ -70,11 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vishussingh24/vishussingh24/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:06B6D4&height=3"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
