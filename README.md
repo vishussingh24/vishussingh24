@@ -43,7 +43,8 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="40" height="40" /> GITHUB STATS</h2>
+</div>
 
 <p align="center">
 
@@ -55,7 +56,9 @@
 
 ---
 
-## 🧠 LeetCode Stats
+<h2>
+LeetCode
+</h2>
 
 <p align="center">
 
