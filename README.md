@@ -47,9 +47,9 @@
 
 <p align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=vishussingh24&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishussingh24&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vishussingh24&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vishussingh24&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<img height="300" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />
+<img height="200" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />
 
-<img height="300" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img height="200" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
 </p>
 
