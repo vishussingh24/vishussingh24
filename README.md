@@ -1,6 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+VISHAL+%F0%9F%92%BB;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=18B8D0&height=120&section=header"/>
 
-![](https://github.com/vishussingh24/vishussingh24/blob/main/github-readme-profile.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=38&pause=1000&color=18B8D0&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vishal+%F0%9F%91%8B;Backend+Developer+%7C;Building+Meaning Full+Web+%26+App+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/vishussingh24/vishussingh24/blob/main/github-readme-profile.gif" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
+</p>
+
 
 # About Me:
 - 🔭 Full Stack Developer passionate about AI, FinTech & scalable web solutions  
