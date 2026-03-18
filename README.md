@@ -62,8 +62,8 @@ LeetCode
 
 <p align="center">
 
-<img height="250" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />
-
+<img height="250" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=contest" />   
+   
 <img height="250" src="https://leetcard.jacoblin.cool/vishussingh24?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
 </p>
