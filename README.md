@@ -94,6 +94,38 @@ LeetCode
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<!-- LeetCode -->
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<!-- Codeforces -->
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<!-- GFG -->
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+<img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://portfolio-link.com">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
 </p>
 
 ---
