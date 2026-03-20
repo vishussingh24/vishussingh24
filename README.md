@@ -56,8 +56,9 @@
 
 ---
 
-<h2>
-LeetCode
+<h2  style="display:flex; align-items:center; justify-content:center; gap:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30"/>
+LeetCode Stats
 </h2>
 
 <p align="center">
